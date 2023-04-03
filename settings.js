@@ -14,7 +14,7 @@ global.APIs = {
 
 //buy apikey premium 085718828566
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'jerapikeytod', // 👉 login
+   'https://api.zeeoneofc.my.id': 'GpTnokTq8PUknjp', // 👉 login
 }
 global.sewabotnya = `KALO MAU SEWA BOT CHAT OWNER KETIK .owner`
 // setting 
@@ -38,24 +38,24 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Xyna botzོ" //namabot kalian
-global.ownername = "Xinaa ×፝֟͜×" //nama kalian
+global.botname = "Xyz botzོ" //namabot kalian
+global.ownername = "Kii Kanaeru" //nama kalian
 global.myweb = "https://youtube.com/@xynabotzreal" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@xynabotzreal" //bebas asal jan hapus
 global.myweb2 = "https://wa.me/6285718828566" //bebas
-global.email = "xynabotz@gmail.com" //bebas
+global.email = "xyzen419@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285718828566'] //premium user
-global.owner = ["6285718828566", "6285718828566"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285718828566" // nomor wa kalian
-global.ownernomerr = "+62 857 1882 8566" //nmr wa kalian
+global.premium = ['6283877118785'] //premium user
+global.owner = ["6283877118785", "6283877118785"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6283877118785" // nomor wa kalian
+global.ownernomerr = "+62 838 7711 8785" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = 'By' //sticker wm ubah
-global.author = 'XynaBotz' //sticker wm ganti nama kalian
+global.author = 'XyzBotz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'templateImage' //
