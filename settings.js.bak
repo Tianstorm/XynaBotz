@@ -14,7 +14,7 @@ global.APIs = {
 
 //buy apikey premium 085718828566
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'GpYnokTq8PUknjp', // 👉 login
+   'https://api.zeeoneofc.my.id': 'GpTnokTq8PUknjp', // 👉 login
 }
 global.sewabotnya = `KALO MAU SEWA BOT CHAT OWNER KETIK .owner`
 // setting 
