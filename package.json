@@ -1,6 +1,6 @@
 {
   "name": "Xyna Botz",
-  "version": "9.6.5",
+  "version": "17.0.6",
   "description": "XynaBotz, Only update in YouTube Xyna Botz",
   "main": "zeeone.js",
   "license": "MIT",
@@ -17,7 +17,7 @@
   "author": "ZeeoneOfc",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "npm install -g npm@9.6.5",
+    "@adiwajshing/baileys": "npm:@ferdiz-afk/baileys@^5.0.5",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@vitalets/google-translate-api": "^7.0.0",
